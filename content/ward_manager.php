@@ -24,7 +24,7 @@
                     </ol>
                     <div class="header">
                         <h4 class="title">Ward Manager</h4>
-                        <p class="category">Here is you can manage your Hospital Wards</p>
+                        <p class="category">Here is where you can manage your Hospital Wards</p>
                     </div>
                     <div class="content table-responsive table-full-width">
                         <table class="table table-hover table-striped" id="myTable">
