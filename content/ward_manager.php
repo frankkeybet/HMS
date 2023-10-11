@@ -1,7 +1,7 @@
 <script>
     function check_delete()
     {
-        var chk = confirm('Are You Want To Delete This');
+        var chk = confirm('Are You Sure You Want To Delete This');
         if (chk)
         {
             return true;
